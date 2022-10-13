@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Frost9881/Frost9881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hey all! Here is a little info about me:
 
 - 🔭 I’m currently working on finishing the JavaScript Path so I can find a job programming or start learning a new programming language.
 - 🌱 I’m currently learning JavaScript at Softuni.
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Best do it on discord: MaverickFrost#0858
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I graduated from Salford University, Manchester with a degree in Film Production.
--->
