@@ -1,5 +1,7 @@
 ### Hey all! Here is a little info about me:
 
+[Link] (https://www.linkedin.com/in/teddynikolova/)
+
 - 🔭 I’m currently working on finishing the JavaScript Path so I can find a job programming or start learning a new programming language.
 - 🌱 I’m currently learning JavaScript at Softuni.
 - 👯 I’m looking to collaborate on different projects and gain more experience.
