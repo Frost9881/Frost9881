@@ -7,4 +7,4 @@
 - 💬 Ask me about movies or TV shows, I won't stop talking :D
 - 📫 How to reach me: Best do it on discord: MaverickFrost#0858
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I graduated from Salford University, Manchester with a degree in Film Production.
+- ⚡ Fun facts: I graduated from Salford University, Manchester with a degree in Film Production. I also enjoy writing stories and letting my imagination run wild.
